@@ -45,7 +45,6 @@
 ![字形来源](https://github.com/Junson-Chiang/Standard-Chruoas-Organization/assets/121187248/a50606a7-1de8-427e-a347-c23395a046dd)
 
 
-
 下表给出了全部25个敕罗日字以及其象形含义、发音、字名。本表采用严式国际音标（IPA），部分音在语流音变作用下存在一字多音的情况，下表中仅给出了常见情况，其他情况会在语音作用下自然产生。下表中括号内的"cons."表示该发音属于辅音，"vow."表示该发音属于元音。部分字不存在或未发掘出其象形含义，用"-"做填充。
 
 ![敕罗日字表](https://github.com/Junson-Chiang/Standard-Chruoas-Organization/assets/121187248/8f9e6623-d405-40ec-8845-0b0701e95b9d)
