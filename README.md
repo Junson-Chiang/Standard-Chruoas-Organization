@@ -1,3 +1,4 @@
+# 筹备中
 # 标准敕罗日语组织（SCO）
 
 标准敕罗日语组织（Standard Chruoas Organization，简称SCO）致力于敕罗日语的维护、传承、发扬，由发起者Junson Chiang创建于2023年3月18日。
