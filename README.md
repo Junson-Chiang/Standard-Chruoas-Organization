@@ -69,6 +69,6 @@
 ## 提示[临时]
 
 你可以在本仓库中找到词典、文档、字体等内容，
-词典位于：```/dictionary```
-文档位于：```/documents```
-字体位于：```/tools/font```
+词典位于：[```/dictionary```](https://github.com/Junson-Chiang/Standard-Chruoas-Organization/tree/main/dictionary)
+文档位于：[```/documents```](https://github.com/Junson-Chiang/Standard-Chruoas-Organization/tree/main/documents)
+字体位于：[```/tools/font```](https://github.com/Junson-Chiang/Standard-Chruoas-Organization/tree/main/tools/fonts)
