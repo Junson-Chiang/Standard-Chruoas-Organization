@@ -43,12 +43,12 @@
 
 敕罗日语有属于自己的文字，一共25个，每个文字代表一种发音。由于敕罗日人信仰天地日月之神，在敕罗日人的造字中也透露着这种信仰。敕罗日语由如下五种基本笔画构成。
 
-![字形来源](https://github.com/Junson-Chiang/Standard-Chruoas-Organization/assets/121187248/a50606a7-1de8-427e-a347-c23395a046dd)
+![字形来源](https://github.com/Junson-Chiang/Standard-Chruoas-Organization/blob/main/assets/%E5%AD%97%E5%BD%A2%E6%9D%A5%E6%BA%90.png)
 
 
 下表给出了全部25个敕罗日字以及其象形含义、发音、字名。本表采用严式国际音标（IPA），部分音在语流音变作用下存在一字多音的情况，下表中仅给出了常见情况，其他情况会在语音作用下自然产生。下表中括号内的"cons."表示该发音属于辅音，"vow."表示该发音属于元音。部分字不存在或未发掘出其象形含义，用"-"做填充。
 
-![敕罗日字表](https://github.com/Junson-Chiang/Standard-Chruoas-Organization/assets/121187248/8f9e6623-d405-40ec-8845-0b0701e95b9d)
+![敕罗日字表](https://github.com/Junson-Chiang/Standard-Chruoas-Organization/blob/main/assets/%E5%AD%97%E5%BD%A2%E6%9D%A5%E6%BA%90.png)
 
 
 在敕罗日语中，一个敕罗日字表示一个音素，即最小语音单位。在纸张书写和传统书写时，都使用传统敕罗日字。由于敕罗日字的笔画具有图形要素，所以每一个敕罗日字也都具备一些象形形意含义。同时，敕罗日语是一种音素表音文字，通常用拉丁字母进行记音，称作记音字，记音字也可以用于书写敕罗日语， 叫做记音法转写，这种方式也是现代敕罗日语的书写方式，使用记音法转写时，主词和词缀的首字母都应大写，以作分割标志。上表中的字名采用记音法转写。
